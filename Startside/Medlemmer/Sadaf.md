@@ -4,7 +4,7 @@ Technical / Academic Skills
 - Data engineering basics, for instance using Pyhton to read a data. 
 - GitLab 
 - LaTeX and documentation
-- Microsoft Office / Google Workspace
+- Microsoft Office
 
 
 Soft / Personal Skills
