@@ -1,5 +1,0 @@
-- Sven
-- Oliver
-- Helle
-- Sadaf
-- Jørgen
