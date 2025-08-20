@@ -1,0 +1,1 @@
+Navn: Sven | Kompetanse: Studiespesialisering med realfag | Interesser: Sport, musikk, spill og serier
