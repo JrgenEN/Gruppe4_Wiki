@@ -1,1 +1,1 @@
-Navn: Oliver | Kompetanse: Data og Elektronikk | Interesser: Golf, Spill, Styrketrening
+Navn: Oliver | Kompetanse: Data og Elektronikk | Interesser: Golf, spill, styrketrening
