@@ -1,0 +1,1 @@
+Jørgen Eira Nilsen: Trening(av å til), spilling(av å til), chille
