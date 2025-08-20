@@ -1,0 +1,4 @@
+- Navn: Helle Aarthun
+- Alder: 19 år
+- Kompetanse: Studiespesialisering, realfag
+- Interesser: 
