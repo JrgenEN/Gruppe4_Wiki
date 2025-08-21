@@ -1,22 +1,21 @@
 Sadaf Hashemi
 
-Technical / Academic Skills
-- Data engineering basics, for instance using Pyhton to read a data. 
-- GitLab 
-- LaTeX and documentation
+Tekniske / Akademiske ferdigheter
+- Grunnleggende dataingeniørkunnskaper, for eksempel bruke AI Python til å lese data
+- GitLab
+- LaTeX og dokumentasjon
 - Microsoft Office
 
+Myke / Personlige ferdigheter
+- Tålmodighet – holde seg rolig under press
+- Pålitelighet – være ansvarlig
+- Organisering – holde oppgaver og informasjon strukturert
+- Motivasjon
+- Nøyaktighet / oppmerksomhet på detaljer
+- Introvert
 
-Soft / Personal Skills
-- Patience – staying calm under pressure
-- Reliability – being responsible
-- Organization – keeping tasks and information structured
-- Motivation
-- Attention to detail
-
-
-Interests
-- Family gatherings
-- Nature photography
-- Learning about different cultures
-- Fitness 
+Interesser
+- Familiesammenkomster
+- Naturfotografering
+- Lære om ulike kulturer
+- Trening
