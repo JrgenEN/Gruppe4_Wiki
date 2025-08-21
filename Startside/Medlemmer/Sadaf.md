@@ -9,8 +9,6 @@ Tekniske / Akademiske ferdigheter
 Myke / Personlige ferdigheter
 - Tålmodighet – holde seg rolig under press
 - Pålitelighet – være ansvarlig
-- Organisering – holde oppgaver og informasjon strukturert
-- Motivasjon
 - Nøyaktighet / oppmerksomhet på detaljer
 - Introvert
 
