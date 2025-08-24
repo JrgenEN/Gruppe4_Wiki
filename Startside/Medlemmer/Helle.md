@@ -6,6 +6,7 @@ Om meg
 
 Personlige egenskaper 
 - Ambivert 
+- Pålitelig
 - 
 
 Fritidsinteresser 
