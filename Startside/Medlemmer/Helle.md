@@ -1,5 +1,6 @@
 
 Om meg 
+- Helle Aarthun
 - 19 år (2005)
 - Fra Rørvik i Trøndelag  
 
