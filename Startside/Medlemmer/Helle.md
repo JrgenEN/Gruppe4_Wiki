@@ -7,7 +7,7 @@ Om meg
 Personlige egenskaper 
 - Ambivert 
 - Pålitelig
-- 
+- Omtenksom
 
 Fritidsinteresser 
 - Trening (styrketrening, HIIT og løping) 
