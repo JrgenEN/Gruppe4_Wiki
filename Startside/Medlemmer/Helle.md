@@ -1,4 +1,8 @@
-- Helle Aarthun
 - 19 år
-- Studiespesialisering, realfag
-- Trening, musikk, hund
+- Fra Rørvik i Trøndelag 
+
+
+Fritidsinteresser 
+- Trening (styrketrening, HIIT og løping) 
+- Familie og venner 
+- Hund
