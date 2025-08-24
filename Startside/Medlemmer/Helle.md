@@ -4,7 +4,8 @@ Om meg
 - 19 år (2005)
 - Fra Rørvik i Trøndelag  
 
-Personlighetstrekk 
+Personlige egenskaper 
+- Ambivert 
 - 
 
 Fritidsinteresser 
