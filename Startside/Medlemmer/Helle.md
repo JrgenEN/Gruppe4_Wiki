@@ -1,7 +1,7 @@
 
 Om meg 
 - 19 år (2005)
-- Fra Rørvik i Trøndelag 
+- Fra Rørvik i Trøndelag  
 
 Personlighetstrekk 
 - 
