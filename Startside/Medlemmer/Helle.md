@@ -4,7 +4,7 @@ Om meg
 - Fra Rørvik i Trøndelag  
 
 Personlighetstrekk 
-- hei
+- 
 
 Fritidsinteresser 
 - Trening (styrketrening, HIIT og løping) 
