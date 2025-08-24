@@ -4,6 +4,9 @@ Om meg
 - 19 år (2005)
 - Fra Rørvik i Trøndelag  
 
+Akademisk bakgrunn
+- Studiespesialiserende med realfag 
+
 Personlige egenskaper 
 - Ambivert 
 - Pålitelig
