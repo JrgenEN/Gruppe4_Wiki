@@ -1,8 +1,11 @@
+---
+title: Helle Aarthun
+---
 
 Om meg 
-- Helle Aarthun
 - 19 år (2005)
 - Fra Rørvik i Trøndelag  
+- Deltidsjobb hos Riverty Services Norway AS
 
 Akademisk bakgrunn
 - Studiespesialiserende med realfag 
