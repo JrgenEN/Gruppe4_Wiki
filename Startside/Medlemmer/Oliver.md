@@ -1,3 +1,4 @@
-- Navn: Oliver
+- Navn: Oliver Nedberg Buøen
+- Alder: 23 år (2002)
 - Kompetanse: Data og Elektronikk 
 - Interesser: Golf, spill, styrketrening
