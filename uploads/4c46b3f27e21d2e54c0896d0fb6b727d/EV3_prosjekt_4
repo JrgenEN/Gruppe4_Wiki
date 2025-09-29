@@ -1,0 +1,103 @@
+#!/usr/bin/env pybricks-micropython
+from pybricks.hubs import EV3Brick
+from pybricks.ev3devices import Motor, ColorSensor, UltrasonicSensor
+from pybricks.parameters import Port, Stop
+from pybricks.robotics import DriveBase
+from pybricks.tools import wait
+
+class RallyRobot:
+    def __init__(self):
+        # Create your objects here.
+        self.ev3 = EV3Brick()
+
+        # Initialize the motors.
+        left_motor = Motor(Port.B)
+        right_motor = Motor(Port.C)
+
+        # Initialize the drive base.
+        self.robot = DriveBase(left_motor, right_motor, wheel_diameter=56, axle_track=114)
+
+        # Initialize the Ultrasonic Sensor, touch sensor and color sensor.
+        self.left_color = ColorSensor(Port.S3)
+        self.right_color = ColorSensor(Port.S4)
+        self.ultra = UltrasonicSensor(Port.S1)
+        self.touch = TouchSensor(Port.S2)
+
+        # Calculate the light threshold. Choose values based on your measurements.
+        self.black = 5     
+        self.white = 85  
+
+        # Set the threshold to the average of black and white.    
+        self.threshold = (self.black + self.white) / 2 
+
+        # Set the drive speed at 100 millimeters per second.
+        self.drive_speed = 180   
+        self.turn_gain = 1.3    # Justeringsknapp for hvor aggressivt roboten følger linjen
+
+    def run(self):
+        # Roboten kjører kontinuerlig
+        while True:
+            self.follow_line_and_sabotage()
+    
+    def wait_for_start(self):
+        self.ev3.speaker.say("Trykk for å starte")
+        while not self.touch.pressed():
+            wait(10)   # sjekk hvert 10 ms
+        self.ev3.speaker.beep()
+        self.ev3.speaker.say("Klar, gå!")
+
+    def follow_line_and_sabotage(self):
+        #Følger linjen og sjekker etter sabotasje
+        # Les refleksjonsverdier
+        left_value = self.left_color.reflection()
+        right_value = self.right_color.reflection()
+
+        # Beregn feil fra threshold
+        error = (left_value - self.threshold) - (right_value - self.threshold)
+        turn = error * self.turn_gain
+
+        # Kjør med justert styring
+        self.robot.drive(self.drive_speed, turn)
+
+        # Sjekk om motstander er i nærheten
+        if self.ultra.distance() < 150:  # 15 cm
+            self.sabotage()
+
+    def sabotage(self):
+        #Enkel sabotasje-strategi"""
+        # Stopper, lager lyd og prøver å blokkere
+        self.robot.stop()
+        self.ev3.speaker.beep()
+
+        # Eksempel: rygg og sving for å sperre
+        self.robot.drive(-120, 90)
+        wait(800)
+
+        # Frem igjen på linjen
+        self.robot.stop()
+        self.robot.drive(120, -90)
+        wait(800)
+        self.robot.stop()
+
+    def calibrate(self):
+        self.ev3.speaker.say("Sett sensoren på svart")
+        wait(2000)
+        self.black = (self.left_color.reflection() + self.right_color.reflection()) / 2
+
+        self.ev3.speaker.say("Sett sensoren på hvit")
+        wait(2000)
+        self.white = (self.left_color.reflection() + self.right_color.reflection()) / 2
+
+        self.threshold = (self.black + self.white) / 2
+        self.ev3.speaker.say("Kalibrering ferdig")
+
+# Hovedprogram
+if __name__ == "__main__":
+    rally_robot = RallyRobot()
+
+    # Kjør kalibrering en gang først
+    rally_robot.calibrate()
+
+    # Start løpet
+    rally_robot.run()
+ 
