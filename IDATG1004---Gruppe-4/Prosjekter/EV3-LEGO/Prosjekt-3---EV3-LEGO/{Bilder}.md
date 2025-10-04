@@ -1,0 +1,1 @@
+![Prosjekt_4](uploads/bd345e727431bfe5bca3492881f3143c/Prosjekt_4.png)
