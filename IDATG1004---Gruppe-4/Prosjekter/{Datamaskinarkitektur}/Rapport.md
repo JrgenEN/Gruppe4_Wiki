@@ -1,0 +1,1 @@
+[Datamaskinarkitektur_Oblig_1.pdf](uploads/2edae108e9d4967ebe4e1443a61db01c/Datamaskinarkitektur_Oblig_1.pdf)
