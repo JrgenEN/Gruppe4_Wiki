@@ -1,3 +1,4 @@
+**KRAV**
 - Skal følge prosjektmetodikken gjennomgått i emnet
 - Skal ha en prosjekplan
 - Skal rapporteres i form av en teknisk rapport med vedlegg, som skal
