@@ -1,0 +1,4 @@
+- Hendelse
+- Sannsynlighet
+- Konsekvens
+- Tiltak
