@@ -1,0 +1,2 @@
+- Ressurser (tid, personer, utstyr, ytre ressurser)
+- Tidsplan med milepæler
