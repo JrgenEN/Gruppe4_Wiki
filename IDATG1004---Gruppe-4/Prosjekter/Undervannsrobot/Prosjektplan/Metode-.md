@@ -1,0 +1,6 @@
+- Hvordan skal problemformuleringen besvares?
+- Litteraturstudier (sammenstilling av litteratur)
+- Intervjuer
+- Spørreundersøkelser (induktiv-deduktiv metode)
+- Eksperimenter (hypotetisk-deduktiv metode)
+- Dataanalyse (statistikk)
