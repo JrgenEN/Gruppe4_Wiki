@@ -1,0 +1,1 @@
+https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt1bfa79c081c5ec69/5f8803b730c48e7ee7c06309/ev3-model-expansion-set-tank-bot.pdf?locale=en-us
