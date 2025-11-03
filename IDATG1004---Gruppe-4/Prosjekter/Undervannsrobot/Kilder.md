@@ -1,0 +1,1 @@
+https://holdnorgerent.no/kunnskapsartikkel/forsopling-pa-land/#:~:text=Søppel%20på%20avveie%20fører%20blant,mikroplast%20og%20miljøgifter%20i%20havet.
