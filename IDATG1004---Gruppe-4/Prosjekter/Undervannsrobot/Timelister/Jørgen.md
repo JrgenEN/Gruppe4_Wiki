@@ -1,7 +1,7 @@
 | **Dato** | **Lengde** |**Hva**|
 | ------ | ------ | ------ |
 |20.10.25|2 t|Planlegging av Prosjekt|
-|23.10.25|3.5 t| |
-|30.10.25|3.5 t| |
-|03.11.25|3.5 t|     |
+|23.10.25|3.5 t||
+|30.10.25|3.5 t|Planlegging av prototype|
+|03.11.25|3.5 t|Programmering av prototype|
 |        |        |     |
