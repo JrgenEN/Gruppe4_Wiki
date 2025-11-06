@@ -5,4 +5,5 @@
 | 27.10.25 | 3.5t | Skrive Møteinnkalling og gjennomføre prosjektplan |
 | 30.10.25 | 3.5t | Gjennomføre møteinnkalling og arbeid med prosjekt |
 | 03.11.25 | 3.5t | Jobbe med robot, lage nytt design for grave-mekanisme |
+| 06.11.25 | 3.5t | Jobbe med presentasjon. |
 
