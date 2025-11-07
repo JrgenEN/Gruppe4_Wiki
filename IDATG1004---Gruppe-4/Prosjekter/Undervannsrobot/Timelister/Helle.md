@@ -6,5 +6,5 @@
 |27.10.25|4 t |Skrive rapport|
 |30.10.25|3,5 t|Møte og tegne robot|
 |03.11.25|3,5 t|Skrive rapport|
-|06.11.25|3 t|Skrive rapport|
+|06.11.25|3 t|Skrive rapport og SWOT-analyse|
 |07.11.25|4 t|Skrive rapport|
