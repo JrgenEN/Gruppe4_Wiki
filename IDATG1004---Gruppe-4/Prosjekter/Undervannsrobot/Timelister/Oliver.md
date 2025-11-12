@@ -5,4 +5,4 @@
 |27.10.2025|3.5t|Planlegge og bygge robot|
 |30.10.2025|3.5t|Møte og bygge Robot|
 |05.11.2025|1t|Skrive rapport|
-|          |    |
+|06.11.2025|3.5t|SWOT analyse|
