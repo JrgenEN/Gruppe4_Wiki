@@ -8,3 +8,5 @@
 |03.11.2026|2.5 hrs|Rapport, Metode + Konklusjon og anbefalinger|
 |05.11.2026 |ca. 1 t|Abstract i rapporten |
 |06.11.2026|1.5 t|SWOT-analysis, Rapport| 
+|12.11.2026|2.5 t| rapport
+og PPT-formatering| 
