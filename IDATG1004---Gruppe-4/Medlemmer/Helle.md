@@ -1,6 +1,5 @@
----
-title: Helle Aarthun
----
+# Helle Aarthun
+
 
 
 Om meg 
@@ -23,3 +22,4 @@ Fritidsinteresser
 - Trening (styrketrening, HIIT og løping) 
 - Familie og venner 
 - Hund
+
