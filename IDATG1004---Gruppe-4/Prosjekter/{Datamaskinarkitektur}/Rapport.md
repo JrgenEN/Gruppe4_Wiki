@@ -1,1 +1,3 @@
-[Datamaskinarkitektur_Oblig_1.pdf](uploads/2edae108e9d4967ebe4e1443a61db01c/Datamaskinarkitektur_Oblig_1.pdf)
+## Rapporter
+- [Datamaskinarkitektur_Oblig_1.pdf](https://github.com/user-attachments/files/23659351/Datamaskinarkitektur_Oblig_1.pdf)
+- [Uploading Datamaskin_Arkitektur.pdf…]()
