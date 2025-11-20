@@ -1,4 +1,2 @@
----
-title: Innledende øving 1
----
-https://www.overleaf.com/project/68a63891ff5ef817b7daced2
+# Innledende øving 1
+[Innledende_øving_1.pdf](https://github.com/user-attachments/files/23658216/Innledende_oving_1.pdf)
