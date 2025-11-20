@@ -1,4 +1,6 @@
 # Wiki for gruppe 4<br>
+Denne siden er for gruppe-4 IDATG-1004.<br>
+Her finner du alle prosjektene vi har hatt igjennom semesteret.
 
 ## Medlemmer
 - [Helle Aarthun](https://github.com/JrgenEN/Gruppe4_Wiki/blob/main/IDATG1004---Gruppe-4/Medlemmer/Helle.md)
@@ -7,7 +9,10 @@
 - [Sadaf](https://github.com/JrgenEN/Gruppe4_Wiki/blob/main/IDATG1004---Gruppe-4/Medlemmer/Sadaf.md)
 - [Sven](https://github.com/JrgenEN/Gruppe4_Wiki/blob/main/IDATG1004---Gruppe-4/Medlemmer/Sven.md)
 
-## Prosjekter
+## Hoved Prosjekter
+### Datemaskinarkitektur
+- [Rapporter](https://github.com/JrgenEN/Gruppe4_Wiki/blob/main/IDATG1004---Gruppe-4/Prosjekter/%7BDatamaskinarkitektur%7D/Rapport.md)
+### EV3-Lego
 #### [Prosjekt 1](https://github.com/JrgenEN/Gruppe4_Wiki/blob/main/IDATG1004---Gruppe-4/Prosjekter/EV3-LEGO/EV3-LEGO-ROBOT)
 - [Python Script](https://github.com/JrgenEN/Gruppe4_Wiki/blob/main/IDATG1004---Gruppe-4/Prosjekter/EV3-LEGO/EV3-LEGO-ROBOT/Python-script.md)
 - [Rapport Latex](https://github.com/JrgenEN/Gruppe4_Wiki/blob/main/IDATG1004---Gruppe-4/Prosjekter/EV3-LEGO/EV3-LEGO-ROBOT/Rapport-i-Latex.md)
@@ -22,7 +27,7 @@
 - [Python Script](https://github.com/JrgenEN/Gruppe4_Wiki/blob/main/IDATG1004---Gruppe-4/Prosjekter/EV3-LEGO/Prosjekt-4---EV3-LEGO-ROBOT/Python-script.md)
 - [Rapport Latex](https://github.com/JrgenEN/Gruppe4_Wiki/blob/main/IDATG1004---Gruppe-4/Prosjekter/EV3-LEGO/Prosjekt-4---EV3-LEGO-ROBOT/Rapport-i-LaTeX.md)
 ### [Undervannsrobot](https://github.com/JrgenEN/Gruppe4_Wiki/blob/main/IDATG1004---Gruppe-4/Prosjekter/Undervannsrobot)
-- #### [Prosjektplan](https://github.com/JrgenEN/Gruppe4_Wiki/blob/main/IDATG1004---Gruppe-4/Prosjekter/Undervannsrobot/Prosjektplan)
+- #### [Prosjektplan](https://github.com/JrgenEN/Gruppe4_Wiki/blob/main/IDATG1004---Gruppe-4/Prosjekter/Undervannsrobot/Prosjektplan.md)
 - #### [Rapport](https://github.com/JrgenEN/Gruppe4_Wiki/blob/main/IDATG1004---Gruppe-4/Prosjekter/Undervannsrobot/Rapport.md)
 - #### [Powerpoint](https://github.com/JrgenEN/Gruppe4_Wiki/blob/main/IDATG1004---Gruppe-4/Prosjekter/Undervannsrobot/PowerPoint.md)
 - #### [Robot Prototype Oppskrift](https://github.com/JrgenEN/Gruppe4_Wiki/blob/main/IDATG1004---Gruppe-4/Prosjekter/Undervannsrobot/Oppskrift-.md)
