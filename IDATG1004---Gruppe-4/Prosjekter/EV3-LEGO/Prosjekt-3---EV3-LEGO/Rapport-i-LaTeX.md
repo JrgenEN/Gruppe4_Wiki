@@ -1,1 +1,0 @@
-[EV3_Lego_Prosjekt_3.pdf](uploads/fb58464eb68b0087475367e2ca593952/EV3_Lego_Prosjekt_3.pdf)
