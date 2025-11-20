@@ -1,1 +1,3 @@
-[EV3_Lego_Prosjekt_2.pdf](uploads/e5dbd39ee95e04405dbd013153e3180f/EV3_Lego_Prosjekt_2.pdf)
+# Lego Prosjekt 2
+
+[EV3_Lego_Prosjekt_2.pdf](https://github.com/user-attachments/files/23658047/EV3_Lego_Prosjekt_2.pdf)
