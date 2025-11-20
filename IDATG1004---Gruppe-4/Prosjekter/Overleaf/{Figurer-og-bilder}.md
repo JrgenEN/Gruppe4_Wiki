@@ -1,3 +1,0 @@
----
-title: Figurer og bilder
----
