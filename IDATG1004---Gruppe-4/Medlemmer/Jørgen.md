@@ -1,3 +1,6 @@
-Jørgen Eira Nilsen
+# Jørgen Nilsen
 - Alder: 23
-- Interesser: Trening(av å til), spilling(av å til), chille
+### Interesser
+- Trening
+- Spilling
+- Programmering
